@@ -2,12 +2,9 @@ package com.harris.evaldo.todolist.ui
 
 import android.app.Activity
 import android.os.Bundle
-import android.os.PersistableBundle
-import android.renderscript.ScriptGroup
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.android.material.datepicker.MaterialDatePicker
-import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.google.android.material.timepicker.MaterialTimePicker
 import com.google.android.material.timepicker.TimeFormat
 import com.harris.evaldo.todolist.databasesource.TaskDataSource

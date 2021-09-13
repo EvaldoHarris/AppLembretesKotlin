@@ -5,4 +5,6 @@
     <string name="desc">Descrição</string>
     <string name="titulo">Titulo</string>
     <string name="hora">Hora</string>
+    <string name="editar">Editar</string>
+    <string name="Escluir">Excluir</string>
 </resources>
